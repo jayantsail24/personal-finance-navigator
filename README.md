@@ -85,7 +85,7 @@ The dashboard layout was designed to keep important financial information visibl
 
 ##  Dashboard Preview
 
-![Personal Finance Navigator Dashboard](Dashboard.PNG)
+![Personal Finance Navigator Dashboard](Dashboard.png)
 
 ---
 
